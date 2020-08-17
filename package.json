@@ -1,6 +1,6 @@
 {
   "name": "@vue/component-compiler",
-  "version": "4.2.3",
+  "version": "4.2.3-0",
   "description": "bundler agnostic API for compiling Vue SFC",
   "repository": {
     "type": "git",
@@ -52,12 +52,6 @@
     "typescript": "^3.9.3",
     "vue": "^2.5.16",
     "vue-template-compiler": "^2.5.16"
-  },
-  "optionalDependencies": {
-    "less": "^3.9.0",
-    "pug": "^2.0.4",
-    "sass": "^1.26.5",
-    "stylus": "^0.54.5"
   },
   "peerDependencies": {
     "postcss": ">=6.0",
